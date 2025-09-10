@@ -1,0 +1,18 @@
+/.venv
+/01. catch_API_data.py
+/02. scraper.py
+/03. wanted_API_data.py
+/04. jobkorea_scraper.py
+/10page_test.py
+/chromedriver.exe
+/jobkorea_10_pages_listings.csv
+/jobkorea_all_listings.csv
+/jobkorea_filtered_listings.csv
+/jobkorea_full_data.csv
+/jobkorea_two_pages_listings.csv
+/job_details_88.csv
+/job_details_test.csv
+/jumpit_basic_data.csv
+/jumpit_full_data.csv
+/test.py
+/wanted_full_job_data.csv
